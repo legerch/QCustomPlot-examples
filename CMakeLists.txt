@@ -22,6 +22,7 @@ endif()
 
 # Run subdirectory routine
 add_subdirectory(dependencies/QCustomPlot-library)
+
 add_subdirectory(app-axis-tags)
 add_subdirectory(app-interactions)
 add_subdirectory(app-plots)

@@ -3,6 +3,8 @@
 All notable changes to this project will be documented in this file.  
 The format is based on [Keep a Changelog]
 
+## [next]
+
 ## [2022_03_14]
 
 ### Fixed
@@ -20,6 +22,6 @@ Creation of the repository containing multiples examples :
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
-[next]: https://github.com/leger50/QCustomPlot-examples/compare/2022_01_10...dev
+[next]: https://github.com/leger50/QCustomPlot-examples/compare/2022_03_14...dev
 [2022_03_14]: https://github.com/leger50/QCustomPlot-examples/compare/2022_01_10...2022_03_14
 [2022_01_10]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2022_01_10

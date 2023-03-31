@@ -20,8 +20,8 @@ This repository contains multiples applications examples, so tags releases are n
 
 | Example version | Library version used |
 | :-: | :-: |
-| [2022-03-14][tag-2022-03-14] | [2.1.1][lib-tag-2.1.1] |
-| [2022-01-10][tag-2022-01-10] | [2.1.0][lib-tag-2.1.0] |
+| [2022-03-14][tag-2022-03-14] | [2.1.0.2][lib-tag-2.1.0.2] |
+| [2022-01-10][tag-2022-01-10] | [2.1.0.1][lib-tag-2.1.0.1] |
 
 # 3. License
 
@@ -35,12 +35,13 @@ This repository contains multiples applications examples, so tags releases are n
 
 <!-- Links to external repositories -->
 [repo-qcp-library]: https://github.com/leger50/QCustomPlot-library
-[lib-tag-2.1.0]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.0
-[lib-tag-2.1.1]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.1
+
+[lib-tag-2.1.0.2]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.0.2
+[lib-tag-2.1.0.1]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.0.1
 
 <!-- Links to this repository -->
 [changelog]: https://github.com/leger50/QCustomPlot-examples/blob/dev/CHANGELOG.md
 [license]: https://github.com/leger50/QCustomPlot-examples/blob/master/LICENSE.md
 
-[tag-2022-01-10]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2022_01_10
 [tag-2022-03-14]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2022_03_14
+[tag-2022-01-10]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2022_01_10
