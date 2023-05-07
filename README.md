@@ -35,16 +35,16 @@ This repository contains multiples applications examples, so tags releases are n
 [cmake]: https://cmake.org/
 
 <!-- Links to external repositories -->
-[repo-qcp-library]: https://github.com/leger50/QCustomPlot-library
+[repo-qcp-library]: https://github.com/legerch/QCustomPlot-library
 
-[lib-tag-2.1.1.1]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.1.1
-[lib-tag-2.1.0.2]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.0.2
-[lib-tag-2.1.0.1]: https://github.com/leger50/QCustomPlot-library/releases/tag/2.1.0.1
+[lib-tag-2.1.1.1]: https://github.com/legerch/QCustomPlot-library/releases/tag/2.1.1.1
+[lib-tag-2.1.0.2]: https://github.com/legerch/QCustomPlot-library/releases/tag/2.1.0.2
+[lib-tag-2.1.0.1]: https://github.com/legerch/QCustomPlot-library/releases/tag/2.1.0.1
 
 <!-- Links to this repository -->
-[changelog]: https://github.com/leger50/QCustomPlot-examples/blob/dev/CHANGELOG.md
-[license]: https://github.com/leger50/QCustomPlot-examples/blob/master/LICENSE.md
+[changelog]: https://github.com/legerch/QCustomPlot-examples/blob/dev/CHANGELOG.md
+[license]: https://github.com/legerch/QCustomPlot-examples/blob/master/LICENSE.md
 
-[tag-2023-03-31]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2023_03_31
-[tag-2022-03-14]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2022_03_14
-[tag-2022-01-10]: https://github.com/leger50/QCustomPlot-examples/releases/tag/2022_01_10
+[tag-2023-03-31]: https://github.com/legerch/QCustomPlot-examples/releases/tag/2023_03_31
+[tag-2022-03-14]: https://github.com/legerch/QCustomPlot-examples/releases/tag/2022_03_14
+[tag-2022-01-10]: https://github.com/legerch/QCustomPlot-examples/releases/tag/2022_01_10

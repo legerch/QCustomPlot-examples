@@ -1,3 +1,3 @@
 [submodule "dependencies/QCustomPlot-library"]
 	path = dependencies/QCustomPlot-library
-	url = git@github.com:leger50/QCustomPlot-library.git
+	url = git@github.com:legerch/QCustomPlot-library.git
